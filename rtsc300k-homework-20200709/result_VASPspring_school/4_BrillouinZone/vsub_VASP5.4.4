@@ -1,0 +1,14 @@
+#!/bin/bash
+#PBS -P ACD109039 
+#PBS -N beta 
+#PBS -l select=1:ncpus=4:mpiprocs=4
+#PBS -l walltime=00:30:00 
+#PBS -q ctest 
+#PBS -o jobresult.out
+#PBS -e jobresult.err
+
+module load intel/2017_u4
+cd ${PBS_O_WORKDIR:-"."}
+export I_MPI_HYDRA_BRANCH_COUNT=-1
+#mpirun ./sample_mpi.exe
+mpirun /work1/u50tcl00/spring-school-2020/vasp544_ncl

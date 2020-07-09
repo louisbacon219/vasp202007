@@ -1,0 +1,4 @@
+System = BCC W
+ENCUT = 224
+EDIFF = 0.0001
+

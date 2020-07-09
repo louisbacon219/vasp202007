@@ -1,0 +1,5 @@
+System = FCC Au
+##### Electronic Relaxation
+# PREC = high
+ENCUT = 230
+EDIFF = 0.0001

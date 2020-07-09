@@ -1,0 +1,25 @@
+ running on    4 total cores
+ distrk:  each k-point on    4 cores,    1 groups
+ distr:  one band on    1 cores,    4 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build Jul 01 2019 03:25:34) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ WARNING: type information on POSCAR and POTCAR are incompatible
+ POTCAR overwrites the type information in POSCAR
+ typ   1 type information:  Fe Au
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ found WAVECAR, reading the header
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ reading WAVECAR
+ the WAVECAR file was read successfully
+ initial charge from wavefunction
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1    -0.439243347136E+01   -0.43924E+01   -0.43912E-06  1356   0.229E-02    0.311E-03
+DAV:   2    -0.439243319483E+01    0.27653E-06   -0.96122E-07  1356   0.106E-02
+   1 F= -.43924332E+01 E0= -.43927322E+01  d E =0.897161E-03
+ writing wavefunctions

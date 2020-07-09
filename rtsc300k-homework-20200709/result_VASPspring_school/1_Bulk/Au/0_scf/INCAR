@@ -1,0 +1,3 @@
+System = fcc Au
+ENCUT = 230
+EDIFF = 0.0001

@@ -1,0 +1,8 @@
+System = fcc Au
+PREC = Accurate
+ENCUT = 300
+RWIGS = 1.503
+ISIF = 3
+IBRION = 2
+NSW = 50
+EDIFF = 0.0001

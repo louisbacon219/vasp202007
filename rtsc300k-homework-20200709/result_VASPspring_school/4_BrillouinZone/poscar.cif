@@ -1,0 +1,17 @@
+data_
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_Length_a         2.8735
+_cell_Length_b         2.8735
+_cell_Length_c         2.8735
+_cell_angle_alpha        60.0000
+_cell_angle_beta         60.0000
+_cell_angle_gamma        60.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Au0001   Au     0.000000000    0.000000000    0.000000000

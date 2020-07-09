@@ -1,0 +1,9 @@
+System = C-Spin
+ENCUT = 400.0
+NSW = 50
+ISPIN = 2
+IBRION = 2
+MAGMOM = 1
+RWIGS = 0.863 
+EDIFFG = -0.01
+NPAR = 1

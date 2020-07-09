@@ -1,0 +1,11 @@
+System = FCC Au
+## Electronic Relaxation
+PREC = high
+# ENCUT = 300
+EDIFF = 0.0001
+## Ionic Relaxation
+ISIF = 3
+IBRION = 2
+EDIFFG = 0.001
+# EDIFFG = -0.02
+NSW = 50

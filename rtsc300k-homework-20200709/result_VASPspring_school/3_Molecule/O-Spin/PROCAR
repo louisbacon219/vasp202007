@@ -1,0 +1,89 @@
+PROCAR new format
+# of k-points:    1         # of bands:    8         # of ions:    1
+
+ k-point     1 :    0.00000000 0.00000000 0.00000000     weight = 1.00000000
+
+band     1 # energy  -25.16412274 # occ.  1.00000000
+ 
+ion      s      p      d    tot
+    1  0.762  0.000  0.000  0.762
+ 
+band     2 # energy  -10.15870349 # occ.  1.00000000
+ 
+ion      s      p      d    tot
+    1  0.000  0.705  0.000  0.705
+ 
+band     3 # energy  -10.15870349 # occ.  1.00000000
+ 
+ion      s      p      d    tot
+    1  0.000  0.705  0.000  0.705
+ 
+band     4 # energy  -10.15870349 # occ.  1.00000000
+ 
+ion      s      p      d    tot
+    1  0.000  0.705  0.000  0.705
+ 
+band     5 # energy   -0.31888727 # occ.  0.00000000
+ 
+ion      s      p      d    tot
+    1  0.008  0.000  0.000  0.008
+ 
+band     6 # energy    0.94402946 # occ.  0.00000000
+ 
+ion      s      p      d    tot
+    1  0.010  0.000  0.000  0.010
+ 
+band     7 # energy    1.25324584 # occ.  0.00000000
+ 
+ion      s      p      d    tot
+    1  0.000  0.011  0.000  0.011
+ 
+band     8 # energy    1.25324673 # occ.  0.00000000
+ 
+ion      s      p      d    tot
+    1  0.000  0.011  0.000  0.011
+ 
+# of k-points:    1         # of bands:    8         # of ions:    1
+
+ k-point     1 :    0.00000000 0.00000000 0.00000000     weight = 1.00000000
+
+band     1 # energy  -21.91593283 # occ.  1.00000000
+ 
+ion      s      p      d    tot
+    1  0.743  0.000  0.000  0.743
+ 
+band     2 # energy   -7.13037673 # occ.  0.33333336
+ 
+ion      s      p      d    tot
+    1  0.000  0.657  0.000  0.657
+ 
+band     3 # energy   -7.13037673 # occ.  0.33333336
+ 
+ion      s      p      d    tot
+    1  0.000  0.657  0.000  0.657
+ 
+band     4 # energy   -7.13037671 # occ.  0.33333328
+ 
+ion      s      p      d    tot
+    1  0.000  0.657  0.000  0.657
+ 
+band     5 # energy   -0.26923267 # occ.  0.00000000
+ 
+ion      s      p      d    tot
+    1  0.007  0.000  0.000  0.007
+ 
+band     6 # energy    1.17977664 # occ.  0.00000000
+ 
+ion      s      p      d    tot
+    1  0.011  0.000  0.000  0.011
+ 
+band     7 # energy    1.28257089 # occ.  0.00000000
+ 
+ion      s      p      d    tot
+    1  0.000  0.013  0.000  0.013
+ 
+band     8 # energy    1.28257383 # occ.  0.00000000
+ 
+ion      s      p      d    tot
+    1  0.000  0.013  0.000  0.013
+ 

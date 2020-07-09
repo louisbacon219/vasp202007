@@ -1,0 +1,6 @@
+System = bcc Fe
+ENCUT = 268
+EDIFF = 0.0001
+RWIGS = 1.302
+ISPIN = 2
+MAGMOM = 3

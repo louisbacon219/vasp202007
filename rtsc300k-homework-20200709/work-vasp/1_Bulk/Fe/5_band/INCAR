@@ -1,0 +1,12 @@
+System = bcc Fe
+RWIGS = 1.302
+ENCUT = 268
+EDIFF = 0.0001
+
+ISPIN = 2
+MAGMOM = 3
+
+ICHARG = 11
+LCHARG = .FALSE.
+
+NEDOS = 3001

@@ -1,0 +1,10 @@
+System = bcc Fe
+PREC = Accurate
+ENCUT = 350
+RWIGS = 1.302
+ISIF = 3
+IBRION = 2
+NSW = 50
+EDIFF = 0.00001
+ISPIN = 2
+MAGMOM = 3
